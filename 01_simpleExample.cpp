@@ -9,8 +9,9 @@ void hello(){
     cout << "hello concurrent world!" << endl;
 }
 
-int main(){
-    thread t(hello);
-    t.join();
-    cout << "hello world!" << endl;
-}
+//int main(){
+//    thread t(hello);
+//
+//    t.join();
+//    cout << "hello world!" << endl;
+//}

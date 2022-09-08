@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/learning_multithread.iml" filepath="$PROJECT_DIR$/.idea/learning_multithread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learning_multithreading.iml" filepath="$PROJECT_DIR$/.idea/learning_multithreading.iml" />
     </modules>
   </component>
 </project>
