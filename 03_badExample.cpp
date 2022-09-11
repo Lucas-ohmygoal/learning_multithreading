@@ -16,9 +16,9 @@ struct func{
     }
 };
 
-int main(){
-    int a = 0;
-    func my_func(a);
-    thread my_thread(my_func);
-    my_thread.detach();
-}
+//int main(){
+//    int a = 0;
+//    func my_func(a);
+//    thread my_thread(my_func);
+//    my_thread.detach();
+//}
